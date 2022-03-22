@@ -1,0 +1,61 @@
+img {
+    border:5px solid black;
+    width:300px;
+    height:200px;
+    background-color:rgb(00,80,50);
+    margin:5px;
+    padding:10px;
+    border-shadow:5px 5px red,25px 25px red;
+  }
+  h1{
+    text-shadow:0px 0px blue;
+    background-color:green;
+    
+  }
+  h3{
+  font-size:24pt;
+  font-family:times new roman,cambria, sherif,monospace;
+  font-style:italic;
+  color:black;
+  background-color:green;
+  }
+  
+  .why{
+    font-size:14pt;
+    font-family:cambria,sherif, times new roman, monospace;
+    font-weight:bold;
+    list-style:none;
+    text-align:left;
+  }
+  div{
+    border-style:solid;
+    border-width:medium;
+    border-color:lightblue;
+    padding:5px;
+    marging:5px;
+    box-shadow:5px 5px 5px,5px 5px 5px;
+  }
+  ul{
+    
+  }
+  li{
+    list-style:none;
+    font-size:14pt;
+    
+  }
+  #special{
+    background-color:blue;
+    font-style:italic;
+    font-weight:bold;
+    font-size:16pt;
+  }
+  #sospecial{background-color:blue;
+    font-style:italic;
+    font-weight:bold;
+    font-size:16pt;
+  }
+  p{
+    font-size:12pt;
+    font-family:cambria,sherif, times new roman, monospace;
+  }
+    
